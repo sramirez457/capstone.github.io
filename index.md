@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+
+## Welcome to Shelby Ramirez's ePortfolio
 
 You can use the [editor on GitHub](https://github.com/sramirez457/capstone.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Computer Science at SNHU
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+During my program at SNHU, I acquired various skills that will help me in a new career focused on Computer Science principles. 
 
 ```markdown
 Syntax highlighted code block
